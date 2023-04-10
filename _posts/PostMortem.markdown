@@ -1,9 +1,10 @@
 ---
-layout: page
-title: PostMortem
-permalink: /PostMortem/
+layout: post
+title:  "PostMortem"
+categories: jekyll update
+tags: featured
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
-
 # What would you do differently, if you had the chance to start over?
 We would focus on less on the amount of features implemented after each iteration and more on enhancing the quality of our features
 
