@@ -6,4 +6,4 @@ tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
  
-![Image](test(1).mp4)
+![Image](demo.gif)
