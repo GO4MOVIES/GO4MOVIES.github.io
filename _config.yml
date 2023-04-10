@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "G4 MOVIES"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Keep track of your movies anywhere anytime!
 
 email: a-mail@mail.mail
 #blog logo
