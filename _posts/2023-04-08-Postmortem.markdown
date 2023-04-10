@@ -20,9 +20,4 @@ We learnt that communication is very key in a team or large project development.
 # Can you draw any conclusions from what you’ve done?
 The conclusion we can draw is that the project did not go on as smoothly as we had hoped. Next time we will make sure to learn from our mistakes and be better prepared for taking on a large development project such as this one.
 
-# Contributors
-1. Xin Nie - Gained experience working with HSQLDB.
-2. Arshdeep Sahota - Developed knowlegde about integration and system testing.
-3. Het Dinesh Vidja - Gained in working with User interfaces.
-4. Craig Banahene - Developed skills in testing and static site generation. 
 
