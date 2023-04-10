@@ -32,3 +32,9 @@ In general, people who use this app to keep track of movies are likely to be pas
 
 # Overview of major functionality
 Our app allows a user to create a profile to keep track of movies they are interested in. Once you create your profile the app displays a list of movies where you can click on each movie to see their description. You can also add the movie to a favourite list. You can edit your profile to change your username or password.
+
+# Contributors
+1. Xin Nie - Gained experience working with HSQLDB.
+2. Arshdeep Sahota - Developed knowlegde about integration and system testing.
+3. Het Dinesh Vidja - Gained in working with User interfaces.
+4. Craig Banahene - Developed skills in testing and static site generation. 
