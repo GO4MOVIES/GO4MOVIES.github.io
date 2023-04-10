@@ -4,14 +4,17 @@ title: PostMortem
 permalink: /PostMortem/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+# What would you do differently, if you had the chance to start over?
+We would focus on less on the amount of features implemented after each iteration and more on enhancing the quality of our features
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+# What took the most time? The least? Any surprises?
+Making sure all aspects of our project runs together in synchronization. The individual components did not take as much time as it took to make the whole system work together.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# How did the project change from your initial (iteration 0) vision or stories, or did it work out as predicted?
+The number of features we promised to deliver in iteration 0 reduced from iteration to iteration. This is because we overestimated our amount of work that can be done in a single iteration. We had to scrap some user stories and app features in order to deliver a interactive application before iteration 3 was due.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+# What did you learn about team or large project development? What will you start doing, keep doing, or stop doing next time?
+We learnt that communication is very key in a team or large project development. We also learnt that we need to set realistic goals to help us manage expectations. Next time we are involved in a large project development we will make sure to define clear roles and responsibilities so that each team memer can deliver on time.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+# Can you draw any conclusions from what you’ve done?
+The conclusion we can draw is that the project did not go on as smoothly as we had hoped. Next time we will make sure to learn from our mistakes and be better prepared for taking on a large development project such as this one.
