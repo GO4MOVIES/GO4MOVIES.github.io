@@ -6,6 +6,7 @@ tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
+# Vision
 
 Go4TV is a guidance application that allows TV show and movie fans to track what they're watching, where they can watch, and share the moments with others. The application also can record the user's watching history and notify users about upcoming TV shows and movies.
 
