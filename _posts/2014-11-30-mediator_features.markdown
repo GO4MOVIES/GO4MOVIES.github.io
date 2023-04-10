@@ -20,25 +20,3 @@ The application is designed as a smartphone application, but it will be extensib
 The application will be an improvement over all the current applications used to track movies and tv shows. It will enable users to check whether a particular tv show or movie is available in their current country of residence. As a result, when a user searches for a tv show or movie and they want to watch it and they see it is on a particular streaming service, they will know instantly whether it is available to watch in their country of residence. Users will also find that they can keep track of the tv shows they are watching especially tv shows that release episodes every couple of years.
 
 The application will be considered successful if we get a minimum of 10,000 downloads and users prefer it over other applications in the market such as TV Time.
-
-
-#Lists
-##orderd lists
-1. one
-2. two
-3. three
-
-##unorderd lists
-- Apple
-- Banana
-- Plum
-
-#Links
-This is an [example link](http://example.com/ "With a Title").
-
-#Combinations
->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
->
-> - Apple
-> - Banana
-> - Plum
